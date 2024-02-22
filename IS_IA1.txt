@@ -1,0 +1,7 @@
+Digital signatures authenticate the sender of a digital
+message or document and ensure its integrity, 
+confirming that it hasn't been altered in transit.
+They achieve the security goal of non-repudiation, 
+meaning the sender cannot deny sending the message, 
+providing a reliable method for verifying the origin 
+and authenticity of electronic communications.
